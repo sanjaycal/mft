@@ -1,0 +1,15 @@
+.stockplustext{ 
+    width: 10vw;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    height: var(--sipth);
+ }
+
+ .stockImageContainer{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    margin: 0%;
+    left: 0%;
+    padding: 0%;
+ }

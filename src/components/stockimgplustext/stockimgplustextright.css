@@ -1,0 +1,33 @@
+.container{
+    width: 100%;
+    height: var(--sipth);
+    position: absolute;
+    left: 0%;
+    background-color: var(--mustard);
+    margin: 0%;
+}
+
+.image{
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.text{
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    vertical-align: middle;
+    color: var(--fpink);
+    top: calc(var(--sipth)/2);
+    font-size: 6vh;
+}
+
+.textContainer{
+    width: 50%;
+    position:absolute;
+    left: 0%;
+    height: 100%;
+}

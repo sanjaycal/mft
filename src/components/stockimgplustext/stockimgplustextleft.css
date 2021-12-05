@@ -1,0 +1,32 @@
+.containerleft{
+    width: 100%;
+    height: var(--sipth);
+    position: absolute;
+    left: 0%;
+    background-color: var(--mustard);
+    margin: 0%;
+}
+
+.imageleft{
+    width: 50%;
+    position: absolute;
+    left: 0%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.textleft{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    top: calc(var(--sipth)/2);
+    color: var(--fpink);
+    font-size: 6vh;
+}
+
+.textContainerleft{
+    width: 50%;
+    position:absolute;
+    right: 0%;
+    height: 100%;
+}
